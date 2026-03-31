@@ -1,0 +1,11 @@
+NAME="Contrarian GNU/Linux"
+PRETTY_NAME="Contrarian GNU/Linux"
+ID=contrarian
+ID_LIKE="devuan debian ubuntu"
+VERSION="rolling"
+VERSION_ID="rolling"
+HOME_URL="https://contrarian.soccera.uk"
+SUPPORT_URL="https://contrarian.soccera.uk/support"
+BUG_REPORT_URL="https://contrarian.soccera.uk/issues"
+PRIVACY_POLICY_URL="https://contrarian.soccera.uk/privacy"
+LOGO=contrarian-logo

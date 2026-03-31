@@ -1,0 +1,25 @@
+# Core packages
+base-files
+base-passwd
+bash
+ca-certificates
+coreutils
+cron
+dbus-user-session
+devuan-keyring
+dpkg
+e2fsprogs
+grep
+gzip
+less
+login
+logrotate
+procps
+sudo
+sysv-rc
+sysvinit-core
+tar
+tzdata
+udev
+util-linux
+vim-tiny

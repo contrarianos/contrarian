@@ -1,0 +1,24 @@
+# Graphical stack
+xlibre
+xinit
+x11-xserver-utils
+xlibre-archive-keyring
+
+# Desktop
+mate-desktop-environment
+mate-terminal
+mate-control-center
+mate-system-monitor
+mate-media
+mate-power-manager
+lightdm
+lightdm-gtk-greeter
+
+# Audio
+alsa-utils
+libasound2-plugins
+alsa-ucm-conf
+
+# Convenience
+desktop-base
+fonts-dejavu

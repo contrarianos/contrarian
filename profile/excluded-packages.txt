@@ -1,0 +1,8 @@
+# Conflicting session audio servers are not shipped by default
+pipewire
+pipewire-audio
+pipewire-pulse
+pulseaudio
+pulseaudio-utils
+wireplumber
+easyeffects
